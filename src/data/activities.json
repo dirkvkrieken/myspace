@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "een meditatie",
+    "icon": "Waves"
+  },
+  {
+    "id": 2,
+    "text": "een oefening doen",
+    "icon": "Radical"
+  },
+  {
+    "id": 3,
+    "text": "een stukje schrijven",
+    "icon": "Pen"
+  },
+  {
+    "id": 4,
+    "text": "de app uitbreiden",
+    "icon": "Hammer"
+  },
+  {
+    "id": 5,
+    "text": "contact maken",
+    "icon": "Users"
+  }
+]
